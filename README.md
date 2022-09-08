@@ -1,15 +1,16 @@
 # Event Detection on Dynamic Graphs
 
-This is a PyTorch implementation of DyGED (Dynamic Graph Event Detection) that is proposed 
-event detection architecture in our paper:
+This is a PyTorch implementation of DyGED (Dynamic Graph Event Detection) that is proposed event detection architecture in our paper:
 
-Mert Kosan, et.al. [Event Detection on Dynamic Graphs](https://arxiv.org/abs/2110.12148), 2021.
+<!---Mert Kosan, et.al. [Event Detection on Dynamic Graphs](https://arxiv.org/abs/2110.12148), 2021.--->
 
 ### Get Started
 
 ```bash
 pip install -r requirements.txt
 ```
+
+<!---
 
 ### TODO
 
@@ -28,6 +29,8 @@ If you use this code/implementation, please cite us in your work:
   year={2021}
 }
 ```
+
+--->
 
 
 
